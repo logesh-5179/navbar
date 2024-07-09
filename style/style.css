@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav,ul{
+    background-color: blue;
+    text-align: center;
+    color: aliceblue;
+    height: 40px;
+    
+}
+li,ul{
+    list-style-type: none;
+    padding-top: 20px;
+    justify-content:center ;
+    align-items: center;
+    word-spacing: 30px;
+
+}
